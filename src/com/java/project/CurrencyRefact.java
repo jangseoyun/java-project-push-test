@@ -1,6 +1,6 @@
 package com.java.project;
 
-public class Currency {
+public class CurrencyRefact {
     public static void main(String[] args) {
         //한화로 구하는 것
         //raw한 코드로 접근
